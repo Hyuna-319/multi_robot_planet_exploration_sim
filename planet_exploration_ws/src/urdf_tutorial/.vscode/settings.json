@@ -1,0 +1,30 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/hyuna/project_ws/build/urdf_tutorial",
+        "/home/hyuna/project_ws/install/urdf_tutorial/lib/python3.10/site-packages",
+        "/home/hyuna/project_ws/build/urdf",
+        "/home/hyuna/project_ws/install/urdf/lib/python3.10/site-packages",
+        "/home/hyuna/project_ws/build/sytem",
+        "/home/hyuna/project_ws/install/sytem/lib/python3.10/site-packages",
+        "/home/hyuna/project_ws/build/system",
+        "/home/hyuna/project_ws/install/system/lib/python3.10/site-packages",
+        "/home/hyuna/project_ws/build/robots",
+        "/home/hyuna/project_ws/install/robots/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/hyuna/project_ws/build/urdf_tutorial",
+        "/home/hyuna/project_ws/install/urdf_tutorial/lib/python3.10/site-packages",
+        "/home/hyuna/project_ws/build/urdf",
+        "/home/hyuna/project_ws/install/urdf/lib/python3.10/site-packages",
+        "/home/hyuna/project_ws/build/sytem",
+        "/home/hyuna/project_ws/install/sytem/lib/python3.10/site-packages",
+        "/home/hyuna/project_ws/build/system",
+        "/home/hyuna/project_ws/install/system/lib/python3.10/site-packages",
+        "/home/hyuna/project_ws/build/robots",
+        "/home/hyuna/project_ws/install/robots/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
