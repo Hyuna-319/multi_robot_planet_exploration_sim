@@ -100,13 +100,13 @@ def generate_launch_description():
         ))
         
         robot_interaction_node = Node(
-            package='urdf_tutorial',  # Replace with your actual package name
+            package='urdf_tutorial',  
             executable='robot_interaction_node',
             name='robot_interaction_node',
             output='screen',
             parameters=[{'use_sim_time': use_sim_time}],
         )
-        # 자율주행 드라이브 노드 추가 (로봇 1, 2에만 적용)
+        # 자율주행 드라이브 추가 (로봇 1, 2에만 적용)
         if i in [1, 2]:
             drive_turtlebot3_cmds.append(Node(
                 package='turtlebot3_gazebo',
